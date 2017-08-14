@@ -3,7 +3,7 @@
 `need` is the folder for core CSS files   
 `skins` is the folder for themes of skin   
 
-###Do not change the folder structure, or it will not work correctly
+### Do not change the folder structure, or it will not work correctly
 
 ## Demo
 http://sbzhouhao.net/laydate/
